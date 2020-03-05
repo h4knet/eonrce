@@ -11,9 +11,9 @@ Theses two exploit files uses the following CVE's:
 
 
 ### eonrce.py
-![screenshot](eonrce.gif)
+![screenshot](eonrce51.gif)
 
 ### eonrce2.py
-![screenshot](eonrce2.gif)
+![screenshot](eonrce53.gif)
 
 

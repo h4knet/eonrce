@@ -16,7 +16,7 @@
 #                 As the apache user is allowed to run nmap as root, we were able to execute arbitrary commands by providing a specially crafted NSE script.
 #                 nmap version 6.40 is used and doesn't have the -c and -e options.
 #
-# CVE-2020-0465 - SQLi in API in Cookies 'user_id' field
+# CVE-2020-9465 - SQLi in API in Cookies 'user_id' field
 #                 PoC: Cookie: user_id=1' union select sleep(3) -- ;
 
 # Python imports
